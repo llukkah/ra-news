@@ -19,7 +19,7 @@ export default function News() {
 // then set the articles in each article card with the info from the API
 // {allNews.map((news) => (
 //     <div>
-//         <a href={news.url}><{news.url}</a>
+//         <a href={news.url}><{news.title}</a>
 //         <p>{news.description}</p>
 //         <p>{news.source.name}</p>
 //     </div>
